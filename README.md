@@ -1,6 +1,6 @@
 About Me
 Hi there, I'm Bhupesh Sharma 👋
-Welcome to my GitHub! I'm the CEO of Waglogy, a company dedicated to empowering local and small-scale businesses with cutting-edge digital solutions. My journey in the tech world has been a blend of innovation, passion, and a relentless drive to merge technology with business strategies to create impactful solutions.
+Welcome to my GitHub! I'm the team lead at Waglogy, a company dedicated to empowering local and small-scale businesses with cutting-edge digital solutions. My journey in the tech world has been a blend of innovation, passion, and a relentless drive to merge technology with business strategies to create impactful solutions.
 
 🚀 My Mission
 I'm on a mission to bridge the technology gap for businesses that traditionally couldn't afford or adopt digital strategies. At Waglogy, we believe in harnessing the power of technology to elevate brands, enhance online visibility, and drive sustainable growth within our communities.
