@@ -1,4 +1,3 @@
-! Here's the updated "About Me" description for your GitHub:
 
 Hi there, I'm Bhupesh Sharma 👋 Welcome to my GitHub!
 
